@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+
+//teste
 // declaracao variaveis
 int totalKills=0;
 int totalInit=0;
